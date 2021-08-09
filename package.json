@@ -1,0 +1,11 @@
+{
+  "name": "pixi-projection",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "script.js",
+  "dependencies": {
+    "pixi-projection": "0.3.3",
+    "pixi.js": "5.1.0"
+  }
+}

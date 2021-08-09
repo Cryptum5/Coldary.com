@@ -1,0 +1,66 @@
+body{
+	background-color: #4b4b4b;
+}
+#text{
+	margin-right: -8px;
+	margin-left: -8px;
+	background-image: linear-gradient(#353535, #3f3f3f);
+  	color: #d2dae2;
+  	text-align: center;
+  	font-size: 30px;
+}
+#maintext{
+	margin-right: -8px;
+	margin-left: -8px;
+	text-shadow: 2px 2px #000000;
+  	color: #d2dae2;
+  	text-align: center;
+  	font-size: 30px;
+}
+#contactmark{
+	color: #d2dae2;
+	background-color: rgba(0, 0, 0, 0.062);
+}
+#ButtonStyle:link{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+#ButtonStyle:active{
+	color: #7158e2;
+	background-color: transparent;
+	text-decoration: none;
+}
+#ButtonStyle:visited{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+#ButtonStyle:hover{
+	color: #ffcccc;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+#header{
+	color: #dff9fb;
+	font-size: 40px;
+}
+mark{
+	background-color: rgba(177, 177, 177, 0.192);
+	color: #dff9fb;
+}
+
+#description{
+	color: lightgray;
+	font-size: 20px;
+}
+
+#projectdiv{
+	border: dashed;
+	border-color: #435769;
+	background-color: #464646;
+	background-image: radial-gradient(rgba(255, 255, 255, 0.103),rgb(0,0,0,0) 750px);
+}
+
+@font-face { font-family: Nexa; src: url('fonts/Nexa Bold.otf');}
