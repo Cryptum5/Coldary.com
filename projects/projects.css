@@ -62,5 +62,15 @@ mark{
 	background-color: #464646;
 	background-image: radial-gradient(rgba(255, 255, 255, 0.103),rgb(0,0,0,0) 750px);
 }
+#projectdiv1{
+	border: dashed;
+	border-color: #334250;
+	background-color: #27333d;
+	background-image: radial-gradient(rgba(255, 255, 255, 0.103),rgb(0,0,0,0) 750px);
+}
+
+#snakegame{
+	box-shadow: black 20px 10px 50px;
+}
 
 @font-face { font-family: Nexa; src: url('fonts/Nexa Bold.otf');}
